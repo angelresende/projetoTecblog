@@ -1,5 +1,3 @@
-# projetoTecblog
-
 <h1 align="center">
 
 :computer: **PROJETO TECBLOG**
