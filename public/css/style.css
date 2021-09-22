@@ -1,0 +1,118 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    font-size: 1em;
+    font-family: "Trebuche MS", Helvetica, sans-serif;
+    background: rgb(218, 216, 216);
+}
+
+#cabecalho{
+    background: #f7b600;
+    text-align: center;
+    padding: 15px;
+}
+
+#logo, #menu{
+    padding: 10px;
+}
+
+#principal{
+    width: 920px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+#postagens{
+    width: 640px;
+    float: left;
+}
+
+.postagem{
+    padding: 15px;
+    margin-bottom: 15px;
+    margin-bottom: 15px;
+    background: rgb(218, 216, 216);
+}
+
+.menu-lateral{
+    background: rgb(218, 216, 216);
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.lateral{
+    width: 240px;
+    float: right;
+}
+
+.texto-lateral{
+    font-size: 0.8em;
+    padding: 5px;
+    border-bottom: 1px dotted #4e4e4e;
+}
+
+#categoria{
+    margin-top: 40px;
+}
+
+#rodape{
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    background: #ccc;
+}
+
+h1{
+    color: #4e4e4e;
+    font-size: 2.5em;
+}
+
+h2{
+    color: #f7b600;
+}
+
+h3{
+    color: #eeeaea;
+    background: rgb(51, 47, 47);
+}
+
+.branco{
+    color: honeydew;
+}
+
+.date-post{
+    font-size: 0.8em;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link, a:visited{
+    color: #ad8413;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+
+#cabecalho a:link, #cabecalho a:visited{
+    color: #fff;
+    padding: 8px 12px;
+}
+
+#cabecalho a:hover{
+    color: #f7b600;
+    background: rgb(218, 216, 216);
+    text-decoration: none;
+}
+
+
+
