@@ -19,3 +19,4 @@ Nesse curso, desenvolvi o projeto Tecblog do curso Desenvolvimento Web Completo 
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5;
+- CSS;
